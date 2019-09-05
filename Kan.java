@@ -11,6 +11,6 @@ public class Kan {
 	int d = 42339 / 10 % 10;
 	int e = 42339 % 10;
 
-	System.out.printf("%d  %d  %d  %d  %d", a, b, c, d, e);
+	System.out.printf("%d  %d  %d  %d  %d", a, b, c, d, e, g,f);
 } // close void main
 } // close public class
